@@ -36,4 +36,4 @@ Password: 123456
 
 
 🧑‍💻 Developed By
-    Yash Aghane
+    Rutuja Bonde
